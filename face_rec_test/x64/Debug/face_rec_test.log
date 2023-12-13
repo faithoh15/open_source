@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Hyunji\Desktop\오픈소스\face_rec_test\FaceRec.h(112,7): warning C4101: 'key': unreferenced local variable
+C:\Users\Hyunji\Desktop\오픈소스\face_rec_test\FaceRec.h(282,102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hyunji\Desktop\오픈소스\face_rec_test\FaceRec.h(288,112): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hyunji\Desktop\오픈소스\face_rec_test\FaceRec.h(289,144): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  face_rec_test.vcxproj -> C:\Users\Hyunji\Desktop\오픈소스\face_rec_test\x64\Debug\face_rec_test.exe
